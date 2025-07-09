@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  width: 250px;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#weatherResult {
+  margin-top: 15px;
+  font-size: 14px;
+}
